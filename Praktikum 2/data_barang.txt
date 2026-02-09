@@ -1,0 +1,6 @@
+EL001, Roti Aoka, 2500, 20 
+EL002, Pilus, 1000, 25 
+EL003, Coca cola, 3000, 30 
+EMP001, Batagor, 230, 230 
+MN001, Siomay, 5000, 40 
+TR002, Burger, 25000, 9 
