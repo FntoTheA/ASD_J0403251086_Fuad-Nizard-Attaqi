@@ -3,6 +3,7 @@
 #NIM    : J0403251086
 #Kelas   : A/P1
 
+#setup node
 def createGraph(V, edges):
     mat = [[0 for _ in range(V)] for _ in range(V)]
     
@@ -13,6 +14,7 @@ def createGraph(V, edges):
         mat[v][u] = 1
     return mat
 
+#masukin datanya
 if __name__ == "__main__":
     V = 4
 
@@ -20,7 +22,7 @@ if __name__ == "__main__":
 
     adj = createGraph(V, edges)
 
-    print("adjacency list representation")
+    print("adjacency matrix representation")
     for i in range(V):
         for node in adj[i]:
             print(node, end=' ')
