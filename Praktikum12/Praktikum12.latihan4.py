@@ -1,7 +1,6 @@
 # Nama : Fuad Nizard Attaqi
 # NIM : J0403251086
 # Kelas : A1
-# Praktikum 12 - Graph II: Shortest Path
 
 # ==========================================================
 # Latihan 4: Studi Kasus Jalur Terpendek Lokasi Kampus
